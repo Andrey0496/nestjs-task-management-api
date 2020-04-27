@@ -1,7 +1,7 @@
 db:
   host: 'localhost'
-  username: 'root'
-  password: 'admin123'
+  username: 'task-user'
+  password: 'task2020'
   synchronize: true
 
 jwt:
